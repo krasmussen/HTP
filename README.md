@@ -9,6 +9,8 @@ Examples of some of the overlays I want to make can be found here:
 
 https://www.youtube.com/watch?v=8wXBe2jTdx4
 
+Currently I am trying to contact the holder of the movie rights to see if we can use some of the actual clips from the movie in this project.
+
 Overlays left to make still:
 
 Cookie - Cookie monster esk overlay that says "I want a cookie. Give me a cookie, NOW!" with the "O" in NOW being the cookie monster esk character. After that is displayed it the cookie monster esk charcter should go across the screen leaving a trail of "cookie" followed by a picture of a cookie until the screen fills up. If possible I would like to have it go away after a user types "cookie"
